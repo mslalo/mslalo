@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hardness-tester
+- 👋 Hi, I’m MS
 - 👀 I’m interested in automation and cloud computing
 - 🌱 I’m currently learning python and data science
 - 💞️ I’m looking to collaborate on building systems for networking equipment
